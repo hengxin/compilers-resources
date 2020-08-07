@@ -2,7 +2,6 @@
 
 - [JFLAP (JFLAP7.1; July 2018)](http://www.jflap.org/)
   - [Visual and Interactive Tools; (Susan H. Rodger)](https://users.cs.duke.edu/~rodger/tools/tools.html)
-
 > `JFLAP` is software for experimenting with formal languages topics 
 including nondeterministic finite automata, nondeterministic pushdown automata, 
 multi-tape Turing machines, several types of grammars, parsing, and L-systems.
