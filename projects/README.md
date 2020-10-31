@@ -1,5 +1,9 @@
 # projects
 
+## Compilers
+- [sheisc/ucc162.3@github](https://github.com/sheisc/ucc162.3)
+> A lightweight open-source C compiler for research and education.
+
 ## Lexer
 
 ## Parser
